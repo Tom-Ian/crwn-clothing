@@ -5,7 +5,7 @@ import Directory from '../../components/directory/directory.component'
 
 import './homepage.styles.scss';
 
-const HomePage = ({history}) => {
+const HomePage = () => {
     return (
         <div className='homepage'>
             <Directory />
